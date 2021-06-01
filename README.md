@@ -1,1 +1,1 @@
-My proffessor required us to send participation emails if we participated in the class in that day. It became chore for me to send him e-mail after every class, so I automated this email system for my own use.
+My professor required us to send participation emails if we participated in the class in that day. It became chore for me to send him e-mail after every class, so I automated this email system for my own use.
